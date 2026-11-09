@@ -1,0 +1,295 @@
+{
+ "v": 1,
+ "id": "REPLACE",
+ "status": "done",
+ "t": "2026-10-19T20:30:00+02:00",
+ "error": null,
+ "score": 86,
+ "summary": "Ausgeglichen, humorvoll, verlässlich.",
+ "sections": [
+  {
+   "key": "overview",
+   "headline": "6.472 Nachrichten in 348 Tagen",
+   "body": "Ein sehr aktiver, warmer Alltags-Chat: an 87 % aller Tage wurde geschrieben.",
+   "bullets": [
+    "Ø 18,6 Nachrichten pro Tag",
+    "384 einzelne Gespräche",
+    "Rekord: 157 Nachrichten am 15. August"
+   ]
+  },
+  {
+   "key": "who_writes_more",
+   "headline": "Fast perfekt ausgeglichen",
+   "people": [
+    {
+     "name": "Lena",
+     "value": "50,5 %",
+     "text": "Schreibt minimal mehr, oft kurze Updates."
+    },
+    {
+     "name": "Jonas",
+     "value": "49,5 %",
+     "text": "Hält locker mit, schreibt etwas längere Nachrichten."
+    }
+   ]
+  },
+  {
+   "key": "response_times",
+   "headline": "Lena antwortet schneller",
+   "people": [
+    {
+     "name": "Lena",
+     "value": "Median 1 Min.",
+     "text": "66 % der Antworten unter 5 Minuten."
+    },
+    {
+     "name": "Jonas",
+     "value": "Median 3 Min.",
+     "text": "Etwas entspannter, aber zuverlässig."
+    }
+   ]
+  },
+  {
+   "key": "starters_enders",
+   "headline": "Lena startet öfter",
+   "people": [
+    {
+     "name": "Lena",
+     "value": "219 Starts",
+     "text": "Meldet sich meist morgens zuerst."
+    },
+    {
+     "name": "Jonas",
+     "value": "165 Starts",
+     "text": "Beendet dafür oft den Abend mit „Gute Nacht“."
+    }
+   ]
+  },
+  {
+   "key": "activity_times",
+   "headline": "Nachteulen-Duo 🌙",
+   "body": "Erstaunlich viel passiert nach Mitternacht; montags ist am meisten los.",
+   "people": [
+    {
+     "name": "Lena",
+     "value": "Peak 2 Uhr",
+     "text": "28 % nachts"
+    },
+    {
+     "name": "Jonas",
+     "value": "Peak 2 Uhr",
+     "text": "29 % nachts"
+    }
+   ]
+  },
+  {
+   "key": "streaks_pauses",
+   "headline": "60 Tage am Stück",
+   "bullets": [
+    "Serie ab 14. März 2026",
+    "Längste Pause: 14 Tage im Juli – Lena hat das Schweigen gebrochen"
+   ]
+  },
+  {
+   "key": "mood_timeline",
+   "headline": "Konstant gute Stimmung",
+   "timeline": [
+    {
+     "period": "Nov–Jan",
+     "title": "Warmes Kennenlernen",
+     "text": "Viele Herzen, viel Kaffee."
+    },
+    {
+     "period": "Mai",
+     "title": "Kleines Tief",
+     "text": "Weniger Nachrichten, Prüfungsstress."
+    },
+    {
+     "period": "Sep",
+     "title": "Höchststand",
+     "text": "Aktivster Monat des Jahres."
+    }
+   ]
+  },
+  {
+   "key": "topics",
+   "headline": "Kaffee, Hund & Pizza",
+   "bullets": [
+    "☕ Kaffee trinken gehen (145 Tage!)",
+    "🐶 Der Hund vom Nachbarn",
+    "🍕 Pizza bestellen",
+    "🎬 Filme & Serien",
+    "📚 Prüfungen"
+   ]
+  },
+  {
+   "key": "running_gags",
+   "headline": "„Der Hund vom Nachbarn“",
+   "quotes": [
+    {
+     "sender": "Lena",
+     "date": "an 136 Tagen",
+     "text": "Der Hund vom Nachbarn bellt schon wieder",
+     "note": "Euer Dauerbrenner"
+    },
+    {
+     "sender": "Jonas",
+     "date": "an 101 Tagen",
+     "text": "Film war mega",
+     "note": null
+    }
+   ]
+  },
+  {
+   "key": "emojis",
+   "headline": "😘 gewinnt",
+   "people": [
+    {
+     "name": "Lena",
+     "value": "😘 ❤ ☕ 😂 🍕",
+     "text": "906 Emojis"
+    },
+    {
+     "name": "Jonas",
+     "value": "😘 ❤ ☕ 😂 ☀",
+     "text": "841 Emojis"
+    }
+   ]
+  },
+  {
+   "key": "writing_style",
+   "headline": "Kurz & herzlich",
+   "people": [
+    {
+     "name": "Lena",
+     "value": "Ø 3,4 Wörter",
+     "text": "Schnell, verspielt, viele Fragen."
+    },
+    {
+     "name": "Jonas",
+     "value": "Ø 3,5 Wörter",
+     "text": "Erzählt gern von „damals“ und vom Urlaub."
+    }
+   ]
+  },
+  {
+   "key": "questions_answers",
+   "headline": "Beide fragen viel nach",
+   "people": [
+    {
+     "name": "Lena",
+     "value": "707 Fragen",
+     "text": "Beantwortet 468 von Jonas’ Fragen."
+    },
+    {
+     "name": "Jonas",
+     "value": "717 Fragen",
+     "text": "Beantwortet 454 von Lenas Fragen."
+    }
+   ]
+  },
+  {
+   "key": "conflicts",
+   "headline": "Kaum echter Streit",
+   "body": "Das „Idiot haha“ ist liebevolles Necken, kein Konflikt. Nach der Juli-Pause gab es keinen Streit, sondern ein herzliches Wiedersehen."
+  },
+  {
+   "key": "investment",
+   "headline": "52 : 48",
+   "people": [
+    {
+     "name": "Lena",
+     "value": "52,5",
+     "text": "Startet mehr, antwortet schneller."
+    },
+    {
+     "name": "Jonas",
+     "value": "47,5",
+     "text": "Investiert über längere Nachrichten und Abendrituale."
+    }
+   ]
+  },
+  {
+   "key": "red_flags",
+   "headline": "Wenig Grund zur Sorge",
+   "bullets": [
+    "Zwei längere Funkstillen (12 und 14 Tage) ohne Erklärung im Chat",
+    "Viele Nachrichten mitten in der Nacht – Schlaf?"
+   ]
+  },
+  {
+   "key": "green_flags",
+   "headline": "Ganz viel Grün 💚",
+   "bullets": [
+    "Fast gleich verteilte Initiative",
+    "Schnelle Antworten",
+    "Viel gemeinsamer Humor",
+    "Fragen werden beantwortet"
+   ]
+  },
+  {
+   "key": "highlights",
+   "headline": "Eure Momente",
+   "quotes": [
+    {
+     "sender": "Jonas",
+     "date": "15.08.2026",
+     "text": "Bester Tag des Sommers, ehrlich",
+     "note": "Rekordtag mit 157 Nachrichten"
+    },
+    {
+     "sender": "Lena",
+     "date": "02.11.2025",
+     "text": "Hey du 😊",
+     "note": "Die allererste Nachricht"
+    }
+   ]
+  },
+  {
+   "key": "phases",
+   "headline": "Vier Phasen",
+   "timeline": [
+    {
+     "period": "Nov 25",
+     "title": "Start",
+     "text": "Hey du 😊"
+    },
+    {
+     "period": "Mär 26",
+     "title": "Die 60-Tage-Serie",
+     "text": null
+    },
+    {
+     "period": "Jul 26",
+     "title": "Pause & Comeback",
+     "text": null
+    },
+    {
+     "period": "Sep 26",
+     "title": "Höhepunkt",
+     "text": null
+    }
+   ]
+  },
+  {
+   "key": "compatibility",
+   "headline": "Ein eingespieltes Team",
+   "score": 86,
+   "body": "Ausgeglichen, humorvoll, verlässlich."
+  },
+  {
+   "key": "tips",
+   "headline": "3 Tipps",
+   "bullets": [
+    "Nach langen Pausen kurz erklären, was los war",
+    "Nachts öfter mal Handy weg 😴",
+    "Den Hund vom Nachbarn endlich mal besuchen 🐶"
+   ]
+  },
+  {
+   "key": "verdict",
+   "headline": "Ein liebevolles, verspieltes Duo 💕",
+   "body": "Viel Alltag, viel Humor, kaum Streit – ein Chat, der richtig gut tut."
+  }
+ ]
+}

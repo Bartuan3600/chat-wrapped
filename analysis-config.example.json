@@ -1,0 +1,5 @@
+{
+  "server": "https://ntfy.sh",
+  "req_topic": "YOUR_RANDOM_NTFY_TOPIC",
+  "aes_key_b64": "YOUR_BASE64_32_BYTE_AES_KEY"
+}
